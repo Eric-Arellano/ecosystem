@@ -5,6 +5,6 @@ licence = "Apache License 2.0"
 labels = [ "Converter",]
 ibm_maintained = false
 website = "https://github.com/KMU-quantum-classroom"
-stars = 2
+stars = 1
 group = "other"
 uuid = "bc3b8894-7e2b-4fa3-8cd2-550e58e4133b"
